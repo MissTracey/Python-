@@ -1,0 +1,16 @@
+#operators 
+
+#Addition (+)
+#Substraction (-)
+#multiplication (*)
+#Division (/)
+#Modules (%)
+#exponent (**)
+
+x = 10
+x -= 2
+
+print(x)
+
+
+
